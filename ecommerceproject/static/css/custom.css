@@ -1,0 +1,154 @@
+.logo {
+font-family: 'Croissant One', cursive;
+font-family: 'Kenia', cursive;
+font-family: 'Lato', sans-serif;
+font-family: 'Rubik', sans-serif;
+}
+.content{
+font-family: 'Croissant One', cursive;
+font-family: 'Kenia', cursive;
+font-family: 'Lato', sans-serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Rubik', sans-serif;
+}
+.nav-item{
+    front-size :12px;
+    text-transform : uppercase;
+    font-family: 'Croissant One', cursive;
+    font-family: 'Kenia', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Rubik', sans-serif;
+}
+.dropdown-item{
+    front-size :12px;
+    text-transform : uppercase;
+    font-family: 'Croissant One', cursive;
+    font-family: 'Kenia', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Rubik', sans-serif;
+}
+.my_footer{
+    height: 60px;
+    background-color: #F9E79F;
+}
+
+.my_footer p{
+    padding-top: 20px;
+    front-size :14px;
+}
+.my_row_class{
+    padding-top :15px;
+}
+.my_row_class .mx_auto{
+    color:#D5D6EA;
+    front-size :12px;
+}
+.my_image {
+    width: 100%;
+    height: 350px;
+}
+.my_image_prod{
+    width: 200px;
+    height: 200px
+}
+
+.my_title {
+    letter-spacing :0.1em;
+    front-size :16px;
+    text-transform : uppercase;
+}
+.my_image_padding {
+    padding :5px;
+}
+.my_bottom_margin {
+    margin-bottom :10px;
+}
+.card-body h4 {
+    front-size :14px;
+    text-transform : uppercase;
+}
+/***product*/
+.my_prod_row-class {
+    padding-top : 15px;
+    padding-bottom : 20px;
+}
+.my_prod_row-class mx_auto {
+    color: #000;
+    font-size: 12px;
+    text-decoration : none;
+}
+.my_prod_title {
+    font-size :16px;
+    text-transform :uppercase;
+    letter-spacing :.2em;
+    padding-top : 15px;
+    padding-bottom : 10px;
+}
+.my_prod_text {
+    font-family: 'Croissant One', cursive;
+    font-family: 'Kenia', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Rubik', sans-serif;
+}
+.my_search_text{
+    padding-top: 20px;
+}
+/*** cart page ***/
+.my_custom_table{
+    min-width: 400px;
+    font-size: 14px;
+}
+.my_custom_thead{
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    color-background: #f8f8fa!important;
+}
+.custom_a{
+    text-decoration:none;
+}
+.custom_icon{
+    text-decoration:none;
+    color:#868e96 !important;
+}
+.my_custom_button {
+    margin-top:5px;
+}
+/*** contact form ***/
+
+/* Style inputs with type="text", select elements and textareas */
+.my_contact_input, select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+/* Add a background color and some padding around the form */
+.contact {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
